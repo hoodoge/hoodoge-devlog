@@ -6,6 +6,8 @@ What is being built across the HOODOGE ecosystem — games, the website and the 
 
 ## Recent development
 
+- **Sherwood Outlaw — Art** · 2026-10-16  
+  Shop scene reworked so everything fits on one screen.
 - **Sherwood Outlaw — Usability** · 2026-10-16  
   See what you get before you choose in the store and at rest stops; pinch zoom works again on phones.
 - **HOODOGE Website — Navigation** · 2026-10-16  
@@ -28,8 +30,6 @@ What is being built across the HOODOGE ecosystem — games, the website and the 
   Mascot updated to the HOODOGE logo character.
 - **HOODOGE Website — Tools** · 2026-10-11  
   Stonk Detector moved into the main site.
-- **Hoodoge Pop — Gameplay** · 2026-10-10  
-  Shorter, faster rounds.
 
 ## Archive
 
