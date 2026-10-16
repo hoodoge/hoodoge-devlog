@@ -6,6 +6,8 @@ What is being built across the HOODOGE ecosystem — games, the website and the 
 
 ## Recent development
 
+- **Sherwood Outlaw — Usability** · 2026-10-16  
+  See what you get before you choose in the store and at rest stops; pinch zoom works again on phones.
 - **HOODOGE Website — Navigation** · 2026-10-16  
   GitHub link added to the header and community links; the top bar now fits small phones.
 - **Sherwood Outlaw — Mobile** · 2026-10-16  
@@ -28,8 +30,6 @@ What is being built across the HOODOGE ecosystem — games, the website and the 
   Stonk Detector moved into the main site.
 - **Hoodoge Pop — Gameplay** · 2026-10-10  
   Shorter, faster rounds.
-- **HOODOGE Website — Buyback** · 2026-10-10  
-  Buyback & burn page live.
 
 ## Archive
 
