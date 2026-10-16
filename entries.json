@@ -1,15 +1,15 @@
 [
-  { "date": "2026-10-16", "project": "Sherwood Outlaw", "area": "Mobile", "summary": "Landscape-first play on phones and installable as a home-screen app." },
-  { "date": "2026-10-16", "project": "Sherwood Outlaw", "area": "Shop", "summary": "Cosmetic shop opened: combat glow colours and leaderboard titles, paid with Treats. New playable outlaws coming later." },
-  { "date": "2026-10-16", "project": "Sherwood Outlaw", "area": "Leaderboard", "summary": "Win/loss record on the title screen and leaderboard; abandoning a run now asks for confirmation." },
-  { "date": "2026-10-15", "project": "Sherwood Outlaw", "area": "Progression", "summary": "Unlock progression with feats and a Collection screen; Treats rewards for clearing all three acts." },
-  { "date": "2026-10-15", "project": "Sherwood Outlaw", "area": "Card Combat", "summary": "Intent bubbles with move names, attack damage preview, monster dossiers, settings panel, and a new sound set." },
-  { "date": "2026-10-15", "project": "Sherwood Outlaw", "area": "Title Screen", "summary": "Hand-painted plank menu, designer map art for all three acts, and a blurred act backdrop behind the stage." },
-  { "date": "2026-10-14", "project": "Sherwood Outlaw", "area": "Launch", "summary": "Sherwood Outlaw is live: a HOODOGE roguelike deckbuilder across three acts, with a global leaderboard." },
-  { "date": "2026-10-11", "project": "HOODOGE Website", "area": "Tools", "summary": "Stonk Detector moved into the main site alongside the Burn page." },
-  { "date": "2026-10-10", "project": "HOODOGE Website", "area": "Buyback", "summary": "Buyback & burn page live with on-chain history." },
-  { "date": "2026-10-01", "project": "HOODOGE Treats", "area": "Ledger", "summary": "Every HOODOGE product now shares one Treats balance; TV snacks and the Pop shop moved onto it." },
-  { "date": "2026-09-29", "project": "Hoodoge Pop", "area": "Launch", "summary": "Hoodoge Pop is live: a 60-second match-3 with ranked duels, effects and music." },
-  { "date": "2026-09-19", "project": "HOODOGE TV", "area": "Music", "summary": "Original solo-piano soundtrack with a shuffle player and sound toggle." },
-  { "date": "2026-09-18", "project": "HOODOGE TV", "area": "Animation", "summary": "Three-storey house scene with layered furniture, new character poses and ambient motion." }
+  { "date": "2026-10-16", "project": "Sherwood Outlaw", "area": "Mobile", "summary": "Mobile play improvements." },
+  { "date": "2026-10-16", "project": "Sherwood Outlaw", "area": "Shop", "summary": "In-game cosmetic shop opened." },
+  { "date": "2026-10-16", "project": "Sherwood Outlaw", "area": "Leaderboard", "summary": "Leaderboard and player record improvements." },
+  { "date": "2026-10-15", "project": "Sherwood Outlaw", "area": "Progression", "summary": "Progression and collection features added." },
+  { "date": "2026-10-15", "project": "Sherwood Outlaw", "area": "Card Combat", "summary": "Combat readability and feedback improvements; new sound set." },
+  { "date": "2026-10-15", "project": "Sherwood Outlaw", "area": "Art", "summary": "New title screen and map art." },
+  { "date": "2026-10-14", "project": "Sherwood Outlaw", "area": "Launch", "summary": "Sherwood Outlaw is live: a HOODOGE card game with a global leaderboard." },
+  { "date": "2026-10-11", "project": "HOODOGE Website", "area": "Tools", "summary": "Stonk Detector moved into the main site." },
+  { "date": "2026-10-10", "project": "HOODOGE Website", "area": "Buyback", "summary": "Buyback & burn page live." },
+  { "date": "2026-10-01", "project": "HOODOGE Treats", "area": "Ledger", "summary": "One Treats balance shared across all HOODOGE products." },
+  { "date": "2026-09-29", "project": "Hoodoge Pop", "area": "Launch", "summary": "Hoodoge Pop is live: a quick HOODOGE puzzle game." },
+  { "date": "2026-09-19", "project": "HOODOGE TV", "area": "Music", "summary": "Original soundtrack added." },
+  { "date": "2026-09-18", "project": "HOODOGE TV", "area": "Animation", "summary": "New scene, character poses and ambient motion." }
 ]

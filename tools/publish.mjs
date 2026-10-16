@@ -14,8 +14,8 @@ const DRY = process.argv.includes('--dry');
 const RECENT_README = 12, RECENT_PROFILE = 5;
 
 const LIVE = [
-  ['Sherwood Outlaw', 'https://outlaw.hoodoge.com', 'roguelike deckbuilder'],
-  ['Hoodoge Pop', 'https://pop.hoodoge.com', 'match-3'],
+  ['Sherwood Outlaw', 'https://outlaw.hoodoge.com', 'card game'],
+  ['Hoodoge Pop', 'https://pop.hoodoge.com', 'puzzle game'],
   ['HOODOGE TV', 'https://tv.hoodoge.com', '24h ambient scene'],
   ['HOODOGE Website', 'https://hoodoge.com', 'home of the goodest outlaw'],
 ];
@@ -29,6 +29,10 @@ const RULES = [
   [/\b[\w-]+\.(ts|js|mjs|sql|toml|json|env)\b/, 'source file name'],
   [/\b(functions|migrations|wrangler|d1|cloudflare|worker)\b/i, 'infrastructure detail'],
   [/\b\d{1,3}(,\d{3})+\b/, 'large number (economy figure?)'],
+  // design must stay abstract: no influences, genre labels or mechanic names anyone could copy from
+  [/slay the spire|\bsts\b|inspired by|based on|modell?ed on|\blike [A-Z]/i, 'influence / comparison'],
+  [/rogue-?like|rogue-?lite|deck-?build|match-?3|match three|auto-?battler|gacha/i, 'genre label'],
+  [/\b(intent|damage preview|relics?|energy|fury|bitten|shaken|scared|feats?|act [123]|three acts|boss|elite|campfire|merchant|upgrade|remove a card)\b/i, 'mechanic name'],
 ];
 function lint(e) {
   const text = `${e.project} ${e.area} ${e.summary}`;
