@@ -22,14 +22,14 @@ What is being built across the HOODOGE ecosystem — games, the website and the 
   New title screen and map art.
 - **Sherwood Outlaw — Launch** · 2026-10-14  
   Sherwood Outlaw is live: a HOODOGE card game with a global leaderboard.
+- **Hoodoge Pop — Art** · 2026-10-13  
+  Mascot updated to the HOODOGE logo character.
 - **HOODOGE Website — Tools** · 2026-10-11  
   Stonk Detector moved into the main site.
+- **Hoodoge Pop — Gameplay** · 2026-10-10  
+  Shorter, faster rounds.
 - **HOODOGE Website — Buyback** · 2026-10-10  
   Buyback & burn page live.
-- **HOODOGE Treats — Ledger** · 2026-10-01  
-  One Treats balance shared across all HOODOGE products.
-- **Hoodoge Pop — Launch** · 2026-09-29  
-  Hoodoge Pop is live: a quick HOODOGE puzzle game.
 
 ## Archive
 
