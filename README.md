@@ -6,6 +6,8 @@ What is being built across the HOODOGE ecosystem — games, the website and the 
 
 ## Recent development
 
+- **HOODOGE Website — Navigation** · 2026-10-16  
+  GitHub link added to the header and community links; the top bar now fits small phones.
 - **Sherwood Outlaw — Mobile** · 2026-10-16  
   Mobile play improvements.
 - **Sherwood Outlaw — Shop** · 2026-10-16  
@@ -28,8 +30,6 @@ What is being built across the HOODOGE ecosystem — games, the website and the 
   One Treats balance shared across all HOODOGE products.
 - **Hoodoge Pop — Launch** · 2026-09-29  
   Hoodoge Pop is live: a quick HOODOGE puzzle game.
-- **HOODOGE TV — Music** · 2026-09-19  
-  Original soundtrack added.
 
 ## Archive
 

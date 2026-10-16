@@ -1,4 +1,5 @@
 [
+  { "date": "2026-10-16", "project": "HOODOGE Website", "area": "Navigation", "summary": "GitHub link added to the header and community links; the top bar now fits small phones." },
   { "date": "2026-10-16", "project": "Sherwood Outlaw", "area": "Mobile", "summary": "Mobile play improvements." },
   { "date": "2026-10-16", "project": "Sherwood Outlaw", "area": "Shop", "summary": "In-game cosmetic shop opened." },
   { "date": "2026-10-16", "project": "Sherwood Outlaw", "area": "Leaderboard", "summary": "Leaderboard and player record improvements." },
