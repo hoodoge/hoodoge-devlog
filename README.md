@@ -6,6 +6,8 @@ What is being built across the HOODOGE ecosystem — games, the website and the 
 
 ## Recent development
 
+- **Sherwood Outlaw — Wallet** · 2026-10-17  
+  Disconnect your wallet right from the Shop or the Treats window.
 - **Sherwood Outlaw — Treats** · 2026-10-17  
   A Treats window on the title screen: see what you earned, what your wallet holds, and claim with one tap when it qualifies.
 - **Sherwood Outlaw — Treats** · 2026-10-17  
@@ -28,8 +30,6 @@ What is being built across the HOODOGE ecosystem — games, the website and the 
   Rewritten How to Play, Home and Community links on the title screen, shop text fixes.
 - **Sherwood Outlaw — Compatibility** · 2026-10-17  
   Layout now renders the same in Firefox as in Chrome.
-- **Sherwood Outlaw — Map** · 2026-10-17  
-  Cleaner map icons; tougher encounters are now called Bounties.
 
 ## Archive
 
