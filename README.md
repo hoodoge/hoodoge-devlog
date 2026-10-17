@@ -6,6 +6,8 @@ What is being built across the HOODOGE ecosystem — games, the website and the 
 
 ## Recent development
 
+- **Sherwood Outlaw — Sound** · 2026-10-17  
+  A full sound pack replaces the code-made tones: every tap, swipe, hit and reward has its own layered sounds, and the music dips under the victory and defeat stings.
 - **Sherwood Outlaw — Battle** · 2026-10-17  
   The monster introduction now appears at the top of the battle, out of the way of your cards.
 - **Sherwood Outlaw — Wallet** · 2026-10-17  
@@ -28,8 +30,6 @@ What is being built across the HOODOGE ecosystem — games, the website and the 
   Hoodoge's arrow now flies forward from his bow when you click him.
 - **Sherwood Outlaw — Map** · 2026-10-17  
   Bigger map view with smaller, tidier markers.
-- **Sherwood Outlaw — Help & Links** · 2026-10-17  
-  Rewritten How to Play, Home and Community links on the title screen, shop text fixes.
 
 ## Archive
 
