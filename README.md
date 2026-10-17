@@ -6,6 +6,8 @@ What is being built across the HOODOGE ecosystem — games, the website and the 
 
 ## Recent development
 
+- **Sherwood Outlaw — Progress** · 2026-10-17  
+  Your growth now follows your wallet: connect it on any device and your luck deck, poster and collection are all there, with nothing lost.
 - **Sherwood Outlaw — Luck Deck** · 2026-10-17  
   Every attack now draws a luck card, for you and for the monsters, and winning the final fight grows your deck for good. Chests let you choose, and a first balance pass evens out the four play styles.
 - **Sherwood Outlaw — Flow** · 2026-10-17  
@@ -28,8 +30,6 @@ What is being built across the HOODOGE ecosystem — games, the website and the 
   A new way to grow your collection: every run adds to your WANTED poster, and one shopkeeper now keeps something special under the counter. Stage characters stand closer to the ground.
 - **Sherwood Outlaw — Art** · 2026-10-17  
   New painted backdrops for the after-battle and treasure screens, and two keepsake icons redrawn to match the rest.
-- **Sherwood Outlaw — Art & Polish** · 2026-10-17  
-  HOODOGE now wears the key-art look in battle, a proper gear opens settings from the title screen, and the top bar hints when it has more to show.
 
 ## Archive
 
