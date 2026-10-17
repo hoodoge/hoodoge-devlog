@@ -1,4 +1,5 @@
 [
+  { "date": "2026-10-17", "project": "Sherwood Outlaw", "area": "Map", "summary": "The mid-battle map view is back, and the trail markers are smaller and tighter." },
   { "date": "2026-10-17", "project": "Sherwood Outlaw", "area": "Sound", "summary": "A full sound pack replaces the code-made tones: every tap, swipe, hit and reward has its own layered sounds, and the music dips under the victory and defeat stings." },
   { "date": "2026-10-17", "project": "Sherwood Outlaw", "area": "Battle", "summary": "The monster introduction now appears at the top of the battle, out of the way of your cards." },
   { "date": "2026-10-17", "project": "Sherwood Outlaw", "area": "Wallet", "summary": "Disconnect your wallet right from the Shop or the Treats window." },

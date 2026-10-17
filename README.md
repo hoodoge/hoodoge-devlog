@@ -6,6 +6,8 @@ What is being built across the HOODOGE ecosystem — games, the website and the 
 
 ## Recent development
 
+- **Sherwood Outlaw — Map** · 2026-10-17  
+  The mid-battle map view is back, and the trail markers are smaller and tighter.
 - **Sherwood Outlaw — Sound** · 2026-10-17  
   A full sound pack replaces the code-made tones: every tap, swipe, hit and reward has its own layered sounds, and the music dips under the victory and defeat stings.
 - **Sherwood Outlaw — Battle** · 2026-10-17  
@@ -28,8 +30,6 @@ What is being built across the HOODOGE ecosystem — games, the website and the 
   Roadmap updated with Sherwood Outlaw, coming soon.
 - **HOODOGE Website — Mascot** · 2026-10-17  
   Hoodoge's arrow now flies forward from his bow when you click him.
-- **Sherwood Outlaw — Map** · 2026-10-17  
-  Bigger map view with smaller, tidier markers.
 
 ## Archive
 
