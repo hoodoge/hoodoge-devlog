@@ -6,6 +6,8 @@ What is being built across the HOODOGE ecosystem — games, the website and the 
 
 ## Recent development
 
+- **Sherwood Outlaw — Holders** · 2026-10-17  
+  Free cosmetics for Sherwood Origins holders.
 - **Sherwood Outlaw — Map** · 2026-10-17  
   Much longer journeys on a scrolling map, with the balance kept where it was.
 - **Sherwood Outlaw — Characters** · 2026-10-17  
@@ -28,8 +30,6 @@ What is being built across the HOODOGE ecosystem — games, the website and the 
   Combat readability and feedback improvements; new sound set.
 - **Sherwood Outlaw — Art** · 2026-10-15  
   New title screen and map art.
-- **Sherwood Outlaw — Launch** · 2026-10-14  
-  Sherwood Outlaw is live: a HOODOGE card game with a global leaderboard.
 
 ## Archive
 
