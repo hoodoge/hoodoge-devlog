@@ -6,6 +6,8 @@ What is being built across the HOODOGE ecosystem — games, the website and the 
 
 ## Recent development
 
+- **Sherwood Outlaw — Map** · 2026-10-17  
+  Bigger map view with smaller, tidier markers.
 - **Sherwood Outlaw — Help & Links** · 2026-10-17  
   Rewritten How to Play, Home and Community links on the title screen, shop text fixes.
 - **Sherwood Outlaw — Compatibility** · 2026-10-17  
@@ -28,8 +30,6 @@ What is being built across the HOODOGE ecosystem — games, the website and the 
   Mobile play improvements.
 - **Sherwood Outlaw — Shop** · 2026-10-16  
   In-game cosmetic shop opened.
-- **Sherwood Outlaw — Leaderboard** · 2026-10-16  
-  Leaderboard and player record improvements.
 
 ## Archive
 
