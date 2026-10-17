@@ -6,6 +6,8 @@ What is being built across the HOODOGE ecosystem — games, the website and the 
 
 ## Recent development
 
+- **Sherwood Outlaw — Art & Polish** · 2026-10-17  
+  HOODOGE now wears the key-art look in battle, a proper gear opens settings from the title screen, and the top bar hints when it has more to show.
 - **HOODOGE Website — Roadmap** · 2026-10-17  
   Roadmap updated with Sherwood Outlaw, coming soon.
 - **HOODOGE Website — Mascot** · 2026-10-17  
@@ -28,8 +30,6 @@ What is being built across the HOODOGE ecosystem — games, the website and the 
   Shop scene reworked so everything fits on one screen.
 - **Sherwood Outlaw — Usability** · 2026-10-16  
   See what you get before you choose in the store and at rest stops; pinch zoom works again on phones.
-- **HOODOGE Website — Navigation** · 2026-10-16  
-  GitHub link added to the header and community links; the top bar now fits small phones.
 
 ## Archive
 
