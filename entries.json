@@ -1,4 +1,5 @@
 [
+  { "date": "2026-10-17", "project": "HOODOGE Website", "area": "Mascot", "summary": "Hoodoge's arrow now flies forward from his bow when you click him." },
   { "date": "2026-10-17", "project": "Sherwood Outlaw", "area": "Map", "summary": "Bigger map view with smaller, tidier markers." },
   { "date": "2026-10-17", "project": "Sherwood Outlaw", "area": "Help & Links", "summary": "Rewritten How to Play, Home and Community links on the title screen, shop text fixes." },
   { "date": "2026-10-17", "project": "Sherwood Outlaw", "area": "Compatibility", "summary": "Layout now renders the same in Firefox as in Chrome." },
