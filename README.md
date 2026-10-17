@@ -6,6 +6,8 @@ What is being built across the HOODOGE ecosystem — games, the website and the 
 
 ## Recent development
 
+- **Sherwood Outlaw — Flow** · 2026-10-17  
+  After a win, picking your card takes you straight back to the map. How to Play now explains the card badges.
 - **Sherwood Outlaw — Map** · 2026-10-17  
   The mid-battle map view is back, and the trail markers are smaller and tighter.
 - **Sherwood Outlaw — Sound** · 2026-10-17  
@@ -28,8 +30,6 @@ What is being built across the HOODOGE ecosystem — games, the website and the 
   HOODOGE now wears the key-art look in battle, a proper gear opens settings from the title screen, and the top bar hints when it has more to show.
 - **HOODOGE Website — Roadmap** · 2026-10-17  
   Roadmap updated with Sherwood Outlaw, coming soon.
-- **HOODOGE Website — Mascot** · 2026-10-17  
-  Hoodoge's arrow now flies forward from his bow when you click him.
 
 ## Archive
 
