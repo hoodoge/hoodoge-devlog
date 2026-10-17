@@ -6,6 +6,8 @@ What is being built across the HOODOGE ecosystem — games, the website and the 
 
 ## Recent development
 
+- **Sherwood Outlaw — Art** · 2026-10-17  
+  New painted backdrops for the after-battle and treasure screens, and two keepsake icons redrawn to match the rest.
 - **Sherwood Outlaw — Art & Polish** · 2026-10-17  
   HOODOGE now wears the key-art look in battle, a proper gear opens settings from the title screen, and the top bar hints when it has more to show.
 - **HOODOGE Website — Roadmap** · 2026-10-17  
@@ -28,8 +30,6 @@ What is being built across the HOODOGE ecosystem — games, the website and the 
   Character select added before each run, with more outlaws on the way.
 - **Sherwood Outlaw — Art** · 2026-10-16  
   Shop scene reworked so everything fits on one screen.
-- **Sherwood Outlaw — Usability** · 2026-10-16  
-  See what you get before you choose in the store and at rest stops; pinch zoom works again on phones.
 
 ## Archive
 
