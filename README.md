@@ -6,6 +6,8 @@ What is being built across the HOODOGE ecosystem — games, the website and the 
 
 ## Recent development
 
+- **HOODOGE Website — Roadmap** · 2026-10-17  
+  Roadmap updated with Sherwood Outlaw, coming soon.
 - **HOODOGE Website — Mascot** · 2026-10-17  
   Hoodoge's arrow now flies forward from his bow when you click him.
 - **Sherwood Outlaw — Map** · 2026-10-17  
@@ -28,8 +30,6 @@ What is being built across the HOODOGE ecosystem — games, the website and the 
   See what you get before you choose in the store and at rest stops; pinch zoom works again on phones.
 - **HOODOGE Website — Navigation** · 2026-10-16  
   GitHub link added to the header and community links; the top bar now fits small phones.
-- **Sherwood Outlaw — Mobile** · 2026-10-16  
-  Mobile play improvements.
 
 ## Archive
 
