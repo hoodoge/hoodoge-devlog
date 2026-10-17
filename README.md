@@ -6,6 +6,8 @@ What is being built across the HOODOGE ecosystem — games, the website and the 
 
 ## Recent development
 
+- **Sherwood Outlaw — Help & Links** · 2026-10-17  
+  Rewritten How to Play, Home and Community links on the title screen, shop text fixes.
 - **Sherwood Outlaw — Compatibility** · 2026-10-17  
   Layout now renders the same in Firefox as in Chrome.
 - **Sherwood Outlaw — Map** · 2026-10-17  
@@ -28,8 +30,6 @@ What is being built across the HOODOGE ecosystem — games, the website and the 
   In-game cosmetic shop opened.
 - **Sherwood Outlaw — Leaderboard** · 2026-10-16  
   Leaderboard and player record improvements.
-- **Sherwood Outlaw — Progression** · 2026-10-15  
-  Progression and collection features added.
 
 ## Archive
 
