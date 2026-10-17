@@ -6,6 +6,8 @@ What is being built across the HOODOGE ecosystem — games, the website and the 
 
 ## Recent development
 
+- **Sherwood Outlaw — Treats** · 2026-10-17  
+  Treats earned in the game now move onto a wallet only for HOODOGE holders above a set amount or Sherwood Origins NFT owners; everything earned stays safe until then, and How to Play explains the rule.
 - **Sherwood Outlaw — Art** · 2026-10-17  
   The WANTED poster got its painted look: parchment, lettering, rank seals and a HOODOGE mugshot. The settings gear is easier to spot.
 - **Sherwood Outlaw — Progression** · 2026-10-17  
@@ -28,8 +30,6 @@ What is being built across the HOODOGE ecosystem — games, the website and the 
   Cleaner map icons; tougher encounters are now called Bounties.
 - **Sherwood Outlaw — Holders** · 2026-10-17  
   Free cosmetics for Sherwood Origins holders.
-- **Sherwood Outlaw — Map** · 2026-10-17  
-  Much longer journeys on a scrolling map, with the balance kept where it was.
 
 ## Archive
 
