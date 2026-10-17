@@ -6,6 +6,8 @@ What is being built across the HOODOGE ecosystem — games, the website and the 
 
 ## Recent development
 
+- **Sherwood Outlaw — Art** · 2026-10-17  
+  The WANTED poster got its painted look: parchment, lettering, rank seals and a HOODOGE mugshot. The settings gear is easier to spot.
 - **Sherwood Outlaw — Progression** · 2026-10-17  
   A new way to grow your collection: every run adds to your WANTED poster, and one shopkeeper now keeps something special under the counter. Stage characters stand closer to the ground.
 - **Sherwood Outlaw — Art** · 2026-10-17  
@@ -28,8 +30,6 @@ What is being built across the HOODOGE ecosystem — games, the website and the 
   Free cosmetics for Sherwood Origins holders.
 - **Sherwood Outlaw — Map** · 2026-10-17  
   Much longer journeys on a scrolling map, with the balance kept where it was.
-- **Sherwood Outlaw — Characters** · 2026-10-17  
-  Character select added before each run, with more outlaws on the way.
 
 ## Archive
 
