@@ -6,6 +6,8 @@ What is being built across the HOODOGE ecosystem — games, the website and the 
 
 ## Recent development
 
+- **Sherwood Outlaw — Compatibility** · 2026-10-17  
+  Layout now renders the same in Firefox as in Chrome.
 - **Sherwood Outlaw — Map** · 2026-10-17  
   Cleaner map icons; tougher encounters are now called Bounties.
 - **Sherwood Outlaw — Holders** · 2026-10-17  
@@ -28,8 +30,6 @@ What is being built across the HOODOGE ecosystem — games, the website and the 
   Leaderboard and player record improvements.
 - **Sherwood Outlaw — Progression** · 2026-10-15  
   Progression and collection features added.
-- **Sherwood Outlaw — Card Combat** · 2026-10-15  
-  Combat readability and feedback improvements; new sound set.
 
 ## Archive
 
