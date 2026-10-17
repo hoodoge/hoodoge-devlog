@@ -6,6 +6,8 @@ What is being built across the HOODOGE ecosystem — games, the website and the 
 
 ## Recent development
 
+- **Sherwood Outlaw — Battle** · 2026-10-17  
+  The monster introduction now appears at the top of the battle, out of the way of your cards.
 - **Sherwood Outlaw — Wallet** · 2026-10-17  
   Disconnect your wallet right from the Shop or the Treats window.
 - **Sherwood Outlaw — Treats** · 2026-10-17  
@@ -28,8 +30,6 @@ What is being built across the HOODOGE ecosystem — games, the website and the 
   Bigger map view with smaller, tidier markers.
 - **Sherwood Outlaw — Help & Links** · 2026-10-17  
   Rewritten How to Play, Home and Community links on the title screen, shop text fixes.
-- **Sherwood Outlaw — Compatibility** · 2026-10-17  
-  Layout now renders the same in Firefox as in Chrome.
 
 ## Archive
 
