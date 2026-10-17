@@ -6,6 +6,8 @@ What is being built across the HOODOGE ecosystem — games, the website and the 
 
 ## Recent development
 
+- **Sherwood Outlaw — Progression** · 2026-10-17  
+  A new way to grow your collection: every run adds to your WANTED poster, and one shopkeeper now keeps something special under the counter. Stage characters stand closer to the ground.
 - **Sherwood Outlaw — Art** · 2026-10-17  
   New painted backdrops for the after-battle and treasure screens, and two keepsake icons redrawn to match the rest.
 - **Sherwood Outlaw — Art & Polish** · 2026-10-17  
@@ -28,8 +30,6 @@ What is being built across the HOODOGE ecosystem — games, the website and the 
   Much longer journeys on a scrolling map, with the balance kept where it was.
 - **Sherwood Outlaw — Characters** · 2026-10-17  
   Character select added before each run, with more outlaws on the way.
-- **Sherwood Outlaw — Art** · 2026-10-16  
-  Shop scene reworked so everything fits on one screen.
 
 ## Archive
 
