@@ -6,6 +6,8 @@ What is being built across the HOODOGE ecosystem — games, the website and the 
 
 ## Recent development
 
+- **Sherwood Outlaw — Map** · 2026-10-17  
+  Cleaner map icons; tougher encounters are now called Bounties.
 - **Sherwood Outlaw — Holders** · 2026-10-17  
   Free cosmetics for Sherwood Origins holders.
 - **Sherwood Outlaw — Map** · 2026-10-17  
@@ -28,8 +30,6 @@ What is being built across the HOODOGE ecosystem — games, the website and the 
   Progression and collection features added.
 - **Sherwood Outlaw — Card Combat** · 2026-10-15  
   Combat readability and feedback improvements; new sound set.
-- **Sherwood Outlaw — Art** · 2026-10-15  
-  New title screen and map art.
 
 ## Archive
 
