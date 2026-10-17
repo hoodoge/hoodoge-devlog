@@ -6,6 +6,8 @@ What is being built across the HOODOGE ecosystem — games, the website and the 
 
 ## Recent development
 
+- **Sherwood Outlaw — Map** · 2026-10-17  
+  Much longer journeys on a scrolling map, with the balance kept where it was.
 - **Sherwood Outlaw — Characters** · 2026-10-17  
   Character select added before each run, with more outlaws on the way.
 - **Sherwood Outlaw — Art** · 2026-10-16  
@@ -28,8 +30,6 @@ What is being built across the HOODOGE ecosystem — games, the website and the 
   New title screen and map art.
 - **Sherwood Outlaw — Launch** · 2026-10-14  
   Sherwood Outlaw is live: a HOODOGE card game with a global leaderboard.
-- **Hoodoge Pop — Art** · 2026-10-13  
-  Mascot updated to the HOODOGE logo character.
 
 ## Archive
 

@@ -1,4 +1,5 @@
 [
+  { "date": "2026-10-17", "project": "Sherwood Outlaw", "area": "Map", "summary": "Much longer journeys on a scrolling map, with the balance kept where it was." },
   { "date": "2026-10-17", "project": "Sherwood Outlaw", "area": "Characters", "summary": "Character select added before each run, with more outlaws on the way." },
   { "date": "2026-10-16", "project": "Sherwood Outlaw", "area": "Art", "summary": "Shop scene reworked so everything fits on one screen." },
   { "date": "2026-10-16", "project": "Sherwood Outlaw", "area": "Usability", "summary": "See what you get before you choose in the store and at rest stops; pinch zoom works again on phones." },
