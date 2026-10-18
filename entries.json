@@ -1,4 +1,5 @@
 [
+  { "date": "2026-10-18", "project": "Sherwood Outlaw", "area": "Lanes", "summary": "Four deck styles now hold up on their own: Brawler and Chomp got stronger, Zoomies and Guard Dog were trimmed, and the game offers you more of whatever style your deck is leaning toward." },
   { "date": "2026-10-18", "project": "Sherwood Outlaw", "area": "Fixes", "summary": "The battle screen no longer shifts sideways and cuts off its left edge, and tapping the hand right as a fight ends is handled quietly." },
   { "date": "2026-10-18", "project": "Sherwood Outlaw", "area": "Fixes", "summary": "A run no longer starts silently when the server cannot be reached; a clear message asks you to try again. Rest-stop choices now fit the screen and the bounty strip is readable." },
   { "date": "2026-10-18", "project": "Sherwood Outlaw", "area": "Endgame", "summary": "Beating the Bear King now ends with a single draw that adds a luck card to your deck for good, and the score screen shows the Treats you earned, now two per gold coin left." },
