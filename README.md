@@ -6,6 +6,8 @@ What is being built across the HOODOGE ecosystem — games, the website and the 
 
 ## Recent development
 
+- **Sherwood Outlaw — update** · 2026-10-18  
+  How-to-play in eleven languages, a confirm step before taking a reward card, fewer trinkets per run, and a tougher luck draw for the other side.
 - **Sherwood Outlaw — polish** · 2026-10-18  
   Two full practice runs on the live game, and the trinket shelf now makes room when it fills up.
 - **Sherwood Outlaw — balance & polish** · 2026-10-18  
@@ -28,8 +30,6 @@ What is being built across the HOODOGE ecosystem — games, the website and the 
   The starting luck deck is calmer now: mostly plain cards with a single plus one, so the earned cards from the Bear King matter more. The tutorial also explains the luck card after your first attack.
 - **Sherwood Outlaw — Settings** · 2026-10-18  
   Music and sound effect volume sliders, pinch-zoom on the map, and lighter backgrounds for phones that were crashing in Safari.
-- **Sherwood Outlaw — Combat** · 2026-10-18  
-  The luck pile now carries over between fights, the drawn card flips open large before the attack lands, and a top-right pill shows cards left out of the whole deck.
 
 ## Archive
 
