@@ -6,6 +6,8 @@ What is being built across the HOODOGE ecosystem — games, the website and the 
 
 ## Recent development
 
+- **Sherwood Outlaw — challenge** · 2026-10-19  
+  Tougher mid-run challengers that each push back on a different habit, plus small readability fixes and an art touch-up.
 - **Sherwood Outlaw — update** · 2026-10-19  
   A long-term challenge for players who keep winning, more varied monster behaviour, map surprises that can now go wrong, a wide balance pass, and a larger, cleaner layout on phones.
 - **Sherwood Outlaw — balance** · 2026-10-18  
@@ -28,8 +30,6 @@ What is being built across the HOODOGE ecosystem — games, the website and the 
   The battle screen no longer shifts sideways and cuts off its left edge, and tapping the hand right as a fight ends is handled quietly.
 - **Sherwood Outlaw — Fixes** · 2026-10-18  
   A run no longer starts silently when the server cannot be reached; a clear message asks you to try again. Rest-stop choices now fit the screen and the bounty strip is readable.
-- **Sherwood Outlaw — Endgame** · 2026-10-18  
-  Beating the Bear King now ends with a single draw that adds a luck card to your deck for good, and the score screen shows the Treats you earned, now two per gold coin left.
 
 ## Archive
 
