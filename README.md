@@ -6,6 +6,8 @@ What is being built across the HOODOGE ecosystem — games, the website and the 
 
 ## Recent development
 
+- **Sherwood Outlaw — balance & polish** · 2026-10-18  
+  Bigger packs that hit softer, a final fight that calls for help, a trader behind some question marks, and a lighter first load.
 - **Sherwood Outlaw — Progression** · 2026-10-18  
   Rank bundles now climb in power: early ranks round out your deck, the top ranks hold the strongest cards. The big haul after each act's final fight fits on one page again.
 - **Sherwood Outlaw — Balance** · 2026-10-18  
@@ -28,8 +30,6 @@ What is being built across the HOODOGE ecosystem — games, the website and the 
   The luck pile now carries over between fights, the drawn card flips open large before the attack lands, and a top-right pill shows cards left out of the whole deck.
 - **Sherwood Outlaw — Progress** · 2026-10-17  
   Your growth now follows your wallet: connect it on any device and your luck deck, poster and collection are all there, with nothing lost.
-- **Sherwood Outlaw — Luck Deck** · 2026-10-17  
-  Every attack now draws a luck card, for you and for the monsters, and winning the final fight grows your deck for good. Chests let you choose, and a first balance pass evens out the four play styles.
 
 ## Archive
 
