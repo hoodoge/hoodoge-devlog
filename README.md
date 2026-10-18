@@ -6,6 +6,8 @@ What is being built across the HOODOGE ecosystem — games, the website and the 
 
 ## Recent development
 
+- **Sherwood Outlaw — New cards** · 2026-10-18  
+  Twenty-three new cards and twelve new trinkets, each with its own art, including cards that belong to two styles at once.
 - **Sherwood Outlaw — Lanes** · 2026-10-18  
   Four deck styles now hold up on their own: Brawler and Chomp got stronger, Zoomies and Guard Dog were trimmed, and the game offers you more of whatever style your deck is leaning toward.
 - **Sherwood Outlaw — Fixes** · 2026-10-18  
@@ -28,8 +30,6 @@ What is being built across the HOODOGE ecosystem — games, the website and the 
   After a win, picking your card takes you straight back to the map. How to Play now explains the card badges.
 - **Sherwood Outlaw — Map** · 2026-10-17  
   The mid-battle map view is back, and the trail markers are smaller and tighter.
-- **Sherwood Outlaw — Sound** · 2026-10-17  
-  A full sound pack replaces the code-made tones: every tap, swipe, hit and reward has its own layered sounds, and the music dips under the victory and defeat stings.
 
 ## Archive
 
