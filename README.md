@@ -6,6 +6,8 @@ What is being built across the HOODOGE ecosystem — games, the website and the 
 
 ## Recent development
 
+- **Sherwood Outlaw — Fixes** · 2026-10-18  
+  A run no longer starts silently when the server cannot be reached; a clear message asks you to try again. Rest-stop choices now fit the screen and the bounty strip is readable.
 - **Sherwood Outlaw — Endgame** · 2026-10-18  
   Beating the Bear King now ends with a single draw that adds a luck card to your deck for good, and the score screen shows the Treats you earned, now two per gold coin left.
 - **Sherwood Outlaw — Balance** · 2026-10-18  
@@ -28,8 +30,6 @@ What is being built across the HOODOGE ecosystem — games, the website and the 
   The monster introduction now appears at the top of the battle, out of the way of your cards.
 - **Sherwood Outlaw — Wallet** · 2026-10-17  
   Disconnect your wallet right from the Shop or the Treats window.
-- **Sherwood Outlaw — Treats** · 2026-10-17  
-  A Treats window on the title screen: see what you earned, what your wallet holds, and claim with one tap when it qualifies.
 
 ## Archive
 
