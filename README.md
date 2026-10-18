@@ -6,6 +6,8 @@ What is being built across the HOODOGE ecosystem — games, the website and the 
 
 ## Recent development
 
+- **Sherwood Outlaw — polish** · 2026-10-18  
+  Two full practice runs on the live game, and the trinket shelf now makes room when it fills up.
 - **Sherwood Outlaw — balance & polish** · 2026-10-18  
   Bigger packs that hit softer, a final fight that calls for help, a trader behind some question marks, and a lighter first load.
 - **Sherwood Outlaw — Progression** · 2026-10-18  
@@ -28,8 +30,6 @@ What is being built across the HOODOGE ecosystem — games, the website and the 
   Music and sound effect volume sliders, pinch-zoom on the map, and lighter backgrounds for phones that were crashing in Safari.
 - **Sherwood Outlaw — Combat** · 2026-10-18  
   The luck pile now carries over between fights, the drawn card flips open large before the attack lands, and a top-right pill shows cards left out of the whole deck.
-- **Sherwood Outlaw — Progress** · 2026-10-17  
-  Your growth now follows your wallet: connect it on any device and your luck deck, poster and collection are all there, with nothing lost.
 
 ## Archive
 
