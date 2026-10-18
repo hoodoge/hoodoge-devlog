@@ -11,7 +11,9 @@ const [project, area, summary, date] = process.argv.slice(2);
 if (!project || !area || !summary) { console.error('usage: add.mjs "<project>" "<area>" "<summary>" [date]'); process.exit(2); }
 const file = path.join(ROOT, 'entries.json');
 const entries = JSON.parse(fs.readFileSync(file, 'utf8'));
-const e = { date: date || new Date().toISOString().slice(0, 10), project, area, summary };
+// Today's date in Korea (KST): the team deploys from Korea, and UTC would still be "yesterday" before 09:00.
+const today = () => new Date().toLocaleDateString('en-CA', { timeZone: 'Asia/Seoul' }); // YYYY-MM-DD
+const e = { date: date || today(), project, area, summary };
 if (entries.some((x) => x.date === e.date && x.project === e.project && x.area === e.area && x.summary === e.summary)) { console.log('already present'); process.exit(0); }
 entries.unshift(e);
 fs.writeFileSync(file, JSON.stringify(entries, null, 2).replace(/\{\n\s+"date"/g, '{ "date"').replace(/,\n\s+"(project|area|summary)"/g, ', "$1"').replace(/\n\s+\}/g, ' }') + '\n');

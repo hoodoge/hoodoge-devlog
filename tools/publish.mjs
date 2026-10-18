@@ -110,6 +110,6 @@ function pushRepo(dir, msg) {
   execSync('git push -q origin HEAD:main', { cwd: dir, stdio: 'inherit' });
   console.log(`${path.basename(dir)}: published (${msg})`);
 }
-const stamp = entries[0]?.date ?? new Date().toISOString().slice(0, 10);
+const stamp = entries[0]?.date ?? new Date().toLocaleDateString('en-CA', { timeZone: 'Asia/Seoul' }); // KST, same as add.mjs
 pushRepo(ROOT, `devlog ${stamp}`);
 if (fs.existsSync(path.join(PROFILE, '.git'))) pushRepo(PROFILE, `profile: recent development ${stamp}`);
