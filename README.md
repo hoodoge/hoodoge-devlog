@@ -6,6 +6,8 @@ What is being built across the HOODOGE ecosystem — games, the website and the 
 
 ## Recent development
 
+- **Sherwood Outlaw — Balance** · 2026-10-18  
+  The starting luck deck is calmer now: mostly plain cards with a single plus one, so the earned cards from the Bear King matter more. The tutorial also explains the luck card after your first attack.
 - **Sherwood Outlaw — Settings** · 2026-10-18  
   Music and sound effect volume sliders, pinch-zoom on the map, and lighter backgrounds for phones that were crashing in Safari.
 - **Sherwood Outlaw — Combat** · 2026-10-18  
@@ -28,8 +30,6 @@ What is being built across the HOODOGE ecosystem — games, the website and the 
   A Treats window on the title screen: see what you earned, what your wallet holds, and claim with one tap when it qualifies.
 - **Sherwood Outlaw — Treats** · 2026-10-17  
   Treats earned in the game now move onto a wallet only for HOODOGE holders above a set amount or Sherwood Origins NFT owners; everything earned stays safe until then, and How to Play explains the rule.
-- **Sherwood Outlaw — Art** · 2026-10-17  
-  The WANTED poster got its painted look: parchment, lettering, rank seals and a HOODOGE mugshot. The settings gear is easier to spot.
 
 ## Archive
 
