@@ -6,6 +6,8 @@ What is being built across the HOODOGE ecosystem — games, the website and the 
 
 ## Recent development
 
+- **Sherwood Outlaw — update** · 2026-10-19  
+  A long-term challenge for players who keep winning, more varied monster behaviour, map surprises that can now go wrong, a wide balance pass, and a larger, cleaner layout on phones.
 - **Sherwood Outlaw — balance** · 2026-10-18  
   Tester feedback pass: bleed is capped and some foes shrug it off, long fights make every monster angrier, standing behind a wall no longer carries over, and almost every card is open from the first run.
 - **Sherwood Outlaw — update** · 2026-10-18  
@@ -28,8 +30,6 @@ What is being built across the HOODOGE ecosystem — games, the website and the 
   A run no longer starts silently when the server cannot be reached; a clear message asks you to try again. Rest-stop choices now fit the screen and the bounty strip is readable.
 - **Sherwood Outlaw — Endgame** · 2026-10-18  
   Beating the Bear King now ends with a single draw that adds a luck card to your deck for good, and the score screen shows the Treats you earned, now two per gold coin left.
-- **Sherwood Outlaw — Balance** · 2026-10-18  
-  The starting luck deck is calmer now: mostly plain cards with a single plus one, so the earned cards from the Bear King matter more. The tutorial also explains the luck card after your first attack.
 
 ## Archive
 
