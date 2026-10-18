@@ -10,6 +10,8 @@ What is being built across the HOODOGE ecosystem — games, the website and the 
   Tougher mid-run challengers that each push back on a different habit, plus small readability fixes and an art touch-up.
 - **Sherwood Outlaw — update** · 2026-10-19  
   A long-term challenge for players who keep winning, more varied monster behaviour, map surprises that can now go wrong, a wide balance pass, and a larger, cleaner layout on phones.
+- **HOODOGE Website — Play** · 2026-10-18  
+  Sherwood Outlaw is now linked from the site, and the roadmap marks it as shipped.
 - **Sherwood Outlaw — balance** · 2026-10-18  
   Tester feedback pass: bleed is capped and some foes shrug it off, long fights make every monster angrier, standing behind a wall no longer carries over, and almost every card is open from the first run.
 - **Sherwood Outlaw — update** · 2026-10-18  
@@ -28,8 +30,6 @@ What is being built across the HOODOGE ecosystem — games, the website and the 
   Four deck styles now hold up on their own: Brawler and Chomp got stronger, Zoomies and Guard Dog were trimmed, and the game offers you more of whatever style your deck is leaning toward.
 - **Sherwood Outlaw — Fixes** · 2026-10-18  
   The battle screen no longer shifts sideways and cuts off its left edge, and tapping the hand right as a fight ends is handled quietly.
-- **Sherwood Outlaw — Fixes** · 2026-10-18  
-  A run no longer starts silently when the server cannot be reached; a clear message asks you to try again. Rest-stop choices now fit the screen and the bounty strip is readable.
 
 ## Archive
 

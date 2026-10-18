@@ -1,4 +1,5 @@
 [
+  { "date": "2026-10-18", "project": "HOODOGE Website", "area": "Play", "summary": "Sherwood Outlaw is now linked from the site, and the roadmap marks it as shipped." },
   { "date": "2026-10-19", "project": "Sherwood Outlaw", "area": "challenge", "summary": "Tougher mid-run challengers that each push back on a different habit, plus small readability fixes and an art touch-up." },
   { "date": "2026-10-19", "project": "Sherwood Outlaw", "area": "update", "summary": "A long-term challenge for players who keep winning, more varied monster behaviour, map surprises that can now go wrong, a wide balance pass, and a larger, cleaner layout on phones." },
   { "date": "2026-10-18", "project": "Sherwood Outlaw", "area": "balance", "summary": "Tester feedback pass: bleed is capped and some foes shrug it off, long fights make every monster angrier, standing behind a wall no longer carries over, and almost every card is open from the first run." },
