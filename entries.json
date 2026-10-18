@@ -1,4 +1,5 @@
 [
+  { "date": "2026-10-18", "project": "Sherwood Outlaw", "area": "Endgame", "summary": "Beating the Bear King now ends with a single draw that adds a luck card to your deck for good, and the score screen shows the Treats you earned, now two per gold coin left." },
   { "date": "2026-10-18", "project": "Sherwood Outlaw", "area": "Balance", "summary": "The starting luck deck is calmer now: mostly plain cards with a single plus one, so the earned cards from the Bear King matter more. The tutorial also explains the luck card after your first attack." },
   { "date": "2026-10-18", "project": "Sherwood Outlaw", "area": "Settings", "summary": "Music and sound effect volume sliders, pinch-zoom on the map, and lighter backgrounds for phones that were crashing in Safari." },
   { "date": "2026-10-18", "project": "Sherwood Outlaw", "area": "Combat", "summary": "The luck pile now carries over between fights, the drawn card flips open large before the attack lands, and a top-right pill shows cards left out of the whole deck." },

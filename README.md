@@ -6,6 +6,8 @@ What is being built across the HOODOGE ecosystem — games, the website and the 
 
 ## Recent development
 
+- **Sherwood Outlaw — Endgame** · 2026-10-18  
+  Beating the Bear King now ends with a single draw that adds a luck card to your deck for good, and the score screen shows the Treats you earned, now two per gold coin left.
 - **Sherwood Outlaw — Balance** · 2026-10-18  
   The starting luck deck is calmer now: mostly plain cards with a single plus one, so the earned cards from the Bear King matter more. The tutorial also explains the luck card after your first attack.
 - **Sherwood Outlaw — Settings** · 2026-10-18  
@@ -28,8 +30,6 @@ What is being built across the HOODOGE ecosystem — games, the website and the 
   Disconnect your wallet right from the Shop or the Treats window.
 - **Sherwood Outlaw — Treats** · 2026-10-17  
   A Treats window on the title screen: see what you earned, what your wallet holds, and claim with one tap when it qualifies.
-- **Sherwood Outlaw — Treats** · 2026-10-17  
-  Treats earned in the game now move onto a wallet only for HOODOGE holders above a set amount or Sherwood Origins NFT owners; everything earned stays safe until then, and How to Play explains the rule.
 
 ## Archive
 
