@@ -6,6 +6,8 @@ What is being built across the HOODOGE ecosystem — games, the website and the 
 
 ## Recent development
 
+- **Sherwood Outlaw — Balance** · 2026-10-18  
+  Resting at the fire now heals less, so sharpening a card is the better call when you are healthy; a few upgrades were evened out as well.
 - **Sherwood Outlaw — New cards** · 2026-10-18  
   Twenty-three new cards and twelve new trinkets, each with its own art, including cards that belong to two styles at once.
 - **Sherwood Outlaw — Lanes** · 2026-10-18  
@@ -28,8 +30,6 @@ What is being built across the HOODOGE ecosystem — games, the website and the 
   Every attack now draws a luck card, for you and for the monsters, and winning the final fight grows your deck for good. Chests let you choose, and a first balance pass evens out the four play styles.
 - **Sherwood Outlaw — Flow** · 2026-10-17  
   After a win, picking your card takes you straight back to the map. How to Play now explains the card badges.
-- **Sherwood Outlaw — Map** · 2026-10-17  
-  The mid-battle map view is back, and the trail markers are smaller and tighter.
 
 ## Archive
 
