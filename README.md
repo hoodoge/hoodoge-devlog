@@ -6,6 +6,8 @@ What is being built across the HOODOGE ecosystem — games, the website and the 
 
 ## Recent development
 
+- **Sherwood Outlaw — Settings** · 2026-10-18  
+  Music and sound effect volume sliders, pinch-zoom on the map, and lighter backgrounds for phones that were crashing in Safari.
 - **Sherwood Outlaw — Combat** · 2026-10-18  
   The luck pile now carries over between fights, the drawn card flips open large before the attack lands, and a top-right pill shows cards left out of the whole deck.
 - **Sherwood Outlaw — Progress** · 2026-10-17  
@@ -28,8 +30,6 @@ What is being built across the HOODOGE ecosystem — games, the website and the 
   Treats earned in the game now move onto a wallet only for HOODOGE holders above a set amount or Sherwood Origins NFT owners; everything earned stays safe until then, and How to Play explains the rule.
 - **Sherwood Outlaw — Art** · 2026-10-17  
   The WANTED poster got its painted look: parchment, lettering, rank seals and a HOODOGE mugshot. The settings gear is easier to spot.
-- **Sherwood Outlaw — Progression** · 2026-10-17  
-  A new way to grow your collection: every run adds to your WANTED poster, and one shopkeeper now keeps something special under the counter. Stage characters stand closer to the ground.
 
 ## Archive
 

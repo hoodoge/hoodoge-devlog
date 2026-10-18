@@ -1,4 +1,5 @@
 [
+  { "date": "2026-10-18", "project": "Sherwood Outlaw", "area": "Settings", "summary": "Music and sound effect volume sliders, pinch-zoom on the map, and lighter backgrounds for phones that were crashing in Safari." },
   { "date": "2026-10-18", "project": "Sherwood Outlaw", "area": "Combat", "summary": "The luck pile now carries over between fights, the drawn card flips open large before the attack lands, and a top-right pill shows cards left out of the whole deck." },
   { "date": "2026-10-17", "project": "Sherwood Outlaw", "area": "Progress", "summary": "Your growth now follows your wallet: connect it on any device and your luck deck, poster and collection are all there, with nothing lost." },
   { "date": "2026-10-17", "project": "Sherwood Outlaw", "area": "Luck Deck", "summary": "Every attack now draws a luck card, for you and for the monsters, and winning the final fight grows your deck for good. Chests let you choose, and a first balance pass evens out the four play styles." },
