@@ -7,6 +7,8 @@ What is being built across the HOODOGE ecosystem — games, the website and the 
 ## Recent development
 
 - **Sherwood Outlaw — Fixes** · 2026-10-18  
+  The battle screen no longer shifts sideways and cuts off its left edge, and tapping the hand right as a fight ends is handled quietly.
+- **Sherwood Outlaw — Fixes** · 2026-10-18  
   A run no longer starts silently when the server cannot be reached; a clear message asks you to try again. Rest-stop choices now fit the screen and the bounty strip is readable.
 - **Sherwood Outlaw — Endgame** · 2026-10-18  
   Beating the Bear King now ends with a single draw that adds a luck card to your deck for good, and the score screen shows the Treats you earned, now two per gold coin left.
@@ -28,8 +30,6 @@ What is being built across the HOODOGE ecosystem — games, the website and the 
   A full sound pack replaces the code-made tones: every tap, swipe, hit and reward has its own layered sounds, and the music dips under the victory and defeat stings.
 - **Sherwood Outlaw — Battle** · 2026-10-17  
   The monster introduction now appears at the top of the battle, out of the way of your cards.
-- **Sherwood Outlaw — Wallet** · 2026-10-17  
-  Disconnect your wallet right from the Shop or the Treats window.
 
 ## Archive
 
