@@ -6,6 +6,8 @@ What is being built across the HOODOGE ecosystem — games, the website and the 
 
 ## Recent development
 
+- **Sherwood Outlaw — update** · 2026-10-20  
+  The outlaw picker now shows which newcomers are for club members and lets you connect or disconnect your wallet right there.
 - **Sherwood Outlaw — roster** · 2026-10-20  
   Three new outlaws step onto the roster with their portraits, marked coming soon while their cards are forged.
 - **Sherwood Outlaw — update** · 2026-10-20  
@@ -28,8 +30,6 @@ What is being built across the HOODOGE ecosystem — games, the website and the 
   A long-term challenge for players who keep winning, more varied monster behaviour, map surprises that can now go wrong, a wide balance pass, and a larger, cleaner layout on phones.
 - **Sherwood Outlaw — balance** · 2026-10-18  
   Tester feedback pass: bleed is capped and some foes shrug it off, long fights make every monster angrier, standing behind a wall no longer carries over, and almost every card is open from the first run.
-- **Sherwood Outlaw — update** · 2026-10-18  
-  How-to-play in eleven languages, a confirm step before taking a reward card, fewer trinkets per run, and a tougher luck draw for the other side.
 
 ## Archive
 
