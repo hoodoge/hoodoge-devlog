@@ -6,6 +6,8 @@ What is being built across the HOODOGE ecosystem — games, the website and the 
 
 ## Recent development
 
+- **Sherwood Outlaw — balance** · 2026-10-19  
+  Another balance pass on cards and trinkets, so strong picks come with a real cost.
 - **Sherwood Outlaw — update** · 2026-10-19  
   Runs in progress now survive game updates and finish on the rules they started with, plus reward screens that always fit.
 - **Sherwood Outlaw — balance** · 2026-10-19  
@@ -28,8 +30,6 @@ What is being built across the HOODOGE ecosystem — games, the website and the 
   Rank bundles now climb in power: early ranks round out your deck, the top ranks hold the strongest cards. The big haul after each act's final fight fits on one page again.
 - **Sherwood Outlaw — Balance** · 2026-10-18  
   Resting at the fire now heals less, so sharpening a card is the better call when you are healthy; a few upgrades were evened out as well.
-- **Sherwood Outlaw — New cards** · 2026-10-18  
-  Twenty-three new cards and twelve new trinkets, each with its own art, including cards that belong to two styles at once.
 
 ## Archive
 
