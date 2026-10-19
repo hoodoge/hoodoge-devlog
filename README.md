@@ -6,6 +6,8 @@ What is being built across the HOODOGE ecosystem — games, the website and the 
 
 ## Recent development
 
+- **Sherwood Outlaw — balance** · 2026-10-19  
+  A big balance pass on cards so every pick costs more thought, and early fights that no longer repeat the same foe.
 - **HOODOGE Website — Play** · 2026-10-19  
   Sherwood Outlaw is now linked from the site, and the roadmap marks it as shipped.
 - **Sherwood Outlaw — challenge** · 2026-10-19  
@@ -28,8 +30,6 @@ What is being built across the HOODOGE ecosystem — games, the website and the 
   Twenty-three new cards and twelve new trinkets, each with its own art, including cards that belong to two styles at once.
 - **Sherwood Outlaw — Lanes** · 2026-10-18  
   Four deck styles now hold up on their own: Brawler and Chomp got stronger, Zoomies and Guard Dog were trimmed, and the game offers you more of whatever style your deck is leaning toward.
-- **Sherwood Outlaw — Fixes** · 2026-10-18  
-  The battle screen no longer shifts sideways and cuts off its left edge, and tapping the hand right as a fight ends is handled quietly.
 
 ## Archive
 
