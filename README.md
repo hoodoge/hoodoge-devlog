@@ -6,6 +6,8 @@ What is being built across the HOODOGE ecosystem — games, the website and the 
 
 ## Recent development
 
+- **Sherwood Outlaw — balance** · 2026-10-20  
+  One of the trinkets now also keeps you out of surprise fights, so it earns its slot.
 - **Sherwood Outlaw — update** · 2026-10-20  
   Drag a card onto a monster to play it, status chips that are always visible, and a tidier battle stage.
 - **Sherwood Outlaw — balance** · 2026-10-19  
@@ -28,8 +30,6 @@ What is being built across the HOODOGE ecosystem — games, the website and the 
   Two full practice runs on the live game, and the trinket shelf now makes room when it fills up.
 - **Sherwood Outlaw — balance & polish** · 2026-10-18  
   Bigger packs that hit softer, a final fight that calls for help, a trader behind some question marks, and a lighter first load.
-- **Sherwood Outlaw — Progression** · 2026-10-18  
-  Rank bundles now climb in power: early ranks round out your deck, the top ranks hold the strongest cards. The big haul after each act's final fight fits on one page again.
 
 ## Archive
 
