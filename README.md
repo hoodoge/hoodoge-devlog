@@ -6,6 +6,8 @@ What is being built across the HOODOGE ecosystem — games, the website and the 
 
 ## Recent development
 
+- **Sherwood Outlaw — update** · 2026-10-20  
+  Drag a card onto a monster to play it, status chips that are always visible, and a tidier battle stage.
 - **Sherwood Outlaw — balance** · 2026-10-19  
   Another balance pass on cards and trinkets, so strong picks come with a real cost.
 - **Sherwood Outlaw — update** · 2026-10-19  
@@ -28,8 +30,6 @@ What is being built across the HOODOGE ecosystem — games, the website and the 
   Bigger packs that hit softer, a final fight that calls for help, a trader behind some question marks, and a lighter first load.
 - **Sherwood Outlaw — Progression** · 2026-10-18  
   Rank bundles now climb in power: early ranks round out your deck, the top ranks hold the strongest cards. The big haul after each act's final fight fits on one page again.
-- **Sherwood Outlaw — Balance** · 2026-10-18  
-  Resting at the fire now heals less, so sharpening a card is the better call when you are healthy; a few upgrades were evened out as well.
 
 ## Archive
 

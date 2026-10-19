@@ -1,4 +1,5 @@
 [
+  { "date": "2026-10-20", "project": "Sherwood Outlaw", "area": "update", "summary": "Drag a card onto a monster to play it, status chips that are always visible, and a tidier battle stage." },
   { "date": "2026-10-19", "project": "Sherwood Outlaw", "area": "balance", "summary": "Another balance pass on cards and trinkets, so strong picks come with a real cost." },
   { "date": "2026-10-19", "project": "Sherwood Outlaw", "area": "update", "summary": "Runs in progress now survive game updates and finish on the rules they started with, plus reward screens that always fit." },
   { "date": "2026-10-19", "project": "Sherwood Outlaw", "area": "balance", "summary": "A big balance pass on cards so every pick costs more thought, and early fights that no longer repeat the same foe." },
