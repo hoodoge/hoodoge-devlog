@@ -6,6 +6,8 @@ What is being built across the HOODOGE ecosystem — games, the website and the 
 
 ## Recent development
 
+- **Sherwood Outlaw — update** · 2026-10-19  
+  Runs in progress now survive game updates and finish on the rules they started with, plus reward screens that always fit.
 - **Sherwood Outlaw — balance** · 2026-10-19  
   A big balance pass on cards so every pick costs more thought, and early fights that no longer repeat the same foe.
 - **HOODOGE Website — Play** · 2026-10-19  
@@ -28,8 +30,6 @@ What is being built across the HOODOGE ecosystem — games, the website and the 
   Resting at the fire now heals less, so sharpening a card is the better call when you are healthy; a few upgrades were evened out as well.
 - **Sherwood Outlaw — New cards** · 2026-10-18  
   Twenty-three new cards and twelve new trinkets, each with its own art, including cards that belong to two styles at once.
-- **Sherwood Outlaw — Lanes** · 2026-10-18  
-  Four deck styles now hold up on their own: Brawler and Chomp got stronger, Zoomies and Guard Dog were trimmed, and the game offers you more of whatever style your deck is leaning toward.
 
 ## Archive
 
