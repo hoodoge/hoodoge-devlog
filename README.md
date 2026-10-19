@@ -6,6 +6,8 @@ What is being built across the HOODOGE ecosystem — games, the website and the 
 
 ## Recent development
 
+- **Sherwood Outlaw — roster** · 2026-10-20  
+  Three new outlaws step onto the roster with their portraits, marked coming soon while their cards are forged.
 - **Sherwood Outlaw — update** · 2026-10-20  
   Three new outlaws are on the roster for club members, waiting on their portraits, and monsters now roll their luck on every single hit.
 - **Sherwood Outlaw — balance** · 2026-10-20  
@@ -28,8 +30,6 @@ What is being built across the HOODOGE ecosystem — games, the website and the 
   Tester feedback pass: bleed is capped and some foes shrug it off, long fights make every monster angrier, standing behind a wall no longer carries over, and almost every card is open from the first run.
 - **Sherwood Outlaw — update** · 2026-10-18  
   How-to-play in eleven languages, a confirm step before taking a reward card, fewer trinkets per run, and a tougher luck draw for the other side.
-- **Sherwood Outlaw — polish** · 2026-10-18  
-  Two full practice runs on the live game, and the trinket shelf now makes room when it fills up.
 
 ## Archive
 
