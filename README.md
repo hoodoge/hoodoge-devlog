@@ -7,6 +7,8 @@ What is being built across the HOODOGE ecosystem — games, the website and the 
 ## Recent development
 
 - **Sherwood Outlaw — update** · 2026-10-20  
+  Story stops that cost or restore health now show your current and maximum health beside the choices.
+- **Sherwood Outlaw — update** · 2026-10-20  
   Every monster now walks in on the new outlaw, being backed into a corner stings the same from start to finish, and the rest-stop preview shows what a reworded improvement does.
 - **Sherwood Outlaw — fix** · 2026-10-20  
   Picking the new outlaw right after connecting a wallet works again.
@@ -28,8 +30,6 @@ What is being built across the HOODOGE ecosystem — games, the website and the 
   Three new outlaws are on the roster for club members, waiting on their portraits, and monsters now roll their luck on every single hit.
 - **Sherwood Outlaw — balance** · 2026-10-20  
   One of the trinkets now also keeps you out of surprise fights, so it earns its slot.
-- **Sherwood Outlaw — update** · 2026-10-20  
-  Drag a card onto a monster to play it, status chips that are always visible, and a tidier battle stage.
 
 ## Archive
 
