@@ -6,6 +6,8 @@ What is being built across the HOODOGE ecosystem — games, the website and the 
 
 ## Recent development
 
+- **Sherwood Outlaw — update** · 2026-10-20  
+  Groundwork for the next outlaw: she keeps her distance, the monsters close in, and her cards and icons are in place behind the coming-soon sign.
 - **HOODOGE Website — Mobile** · 2026-10-20  
   The phone menu now scrolls, so every link and the theme switch are reachable on smaller screens.
 - **Sherwood Outlaw — update** · 2026-10-20  
@@ -28,8 +30,6 @@ What is being built across the HOODOGE ecosystem — games, the website and the 
   A big balance pass on cards so every pick costs more thought, and early fights that no longer repeat the same foe.
 - **HOODOGE Website — Play** · 2026-10-19  
   Sherwood Outlaw is now linked from the site, and the roadmap marks it as shipped.
-- **Sherwood Outlaw — challenge** · 2026-10-19  
-  Tougher mid-run challengers that each push back on a different habit, plus small readability fixes and an art touch-up.
 
 ## Archive
 
