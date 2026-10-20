@@ -6,6 +6,8 @@ What is being built across the HOODOGE ecosystem — games, the website and the 
 
 ## Recent development
 
+- **Sherwood Outlaw — update** · 2026-10-20  
+  Every monster now walks in on the new outlaw, being backed into a corner stings the same from start to finish, and the rest-stop preview shows what a reworded improvement does.
 - **Sherwood Outlaw — fix** · 2026-10-20  
   Picking the new outlaw right after connecting a wallet works again.
 - **Sherwood Outlaw — update** · 2026-10-20  
@@ -28,8 +30,6 @@ What is being built across the HOODOGE ecosystem — games, the website and the 
   One of the trinkets now also keeps you out of surprise fights, so it earns its slot.
 - **Sherwood Outlaw — update** · 2026-10-20  
   Drag a card onto a monster to play it, status chips that are always visible, and a tidier battle stage.
-- **Sherwood Outlaw — balance** · 2026-10-19  
-  Another balance pass on cards and trinkets, so strong picks come with a real cost.
 
 ## Archive
 
