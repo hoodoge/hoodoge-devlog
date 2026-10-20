@@ -1,4 +1,5 @@
 [
+  { "date": "2026-10-20", "project": "Sherwood Outlaw", "area": "fix", "summary": "Picking the new outlaw right after connecting a wallet works again." },
   { "date": "2026-10-20", "project": "Sherwood Outlaw", "area": "update", "summary": "The outlaw picker shows the new Club outlaw in full colour before a wallet is connected, with the lock on the badge alone." },
   { "date": "2026-10-20", "project": "Sherwood Outlaw", "area": "update", "summary": "The second outlaw is open to Sherwood Club members, and the picker now re-reads a wallet's standing instead of trusting an old sign-in." },
   { "date": "2026-10-20", "project": "Sherwood Outlaw", "area": "update", "summary": "Groundwork for the next outlaw: she keeps her distance, the monsters close in, and her cards and icons are in place behind the coming-soon sign." },
