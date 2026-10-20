@@ -7,6 +7,8 @@ What is being built across the HOODOGE ecosystem — games, the website and the 
 ## Recent development
 
 - **Sherwood Outlaw — update** · 2026-10-20  
+  The second outlaw is open to Sherwood Club members, and the picker now re-reads a wallet's standing instead of trusting an old sign-in.
+- **Sherwood Outlaw — update** · 2026-10-20  
   Groundwork for the next outlaw: she keeps her distance, the monsters close in, and her cards and icons are in place behind the coming-soon sign.
 - **HOODOGE Website — Mobile** · 2026-10-20  
   The phone menu now scrolls, so every link and the theme switch are reachable on smaller screens.
@@ -28,8 +30,6 @@ What is being built across the HOODOGE ecosystem — games, the website and the 
   Runs in progress now survive game updates and finish on the rules they started with, plus reward screens that always fit.
 - **Sherwood Outlaw — balance** · 2026-10-19  
   A big balance pass on cards so every pick costs more thought, and early fights that no longer repeat the same foe.
-- **HOODOGE Website — Play** · 2026-10-19  
-  Sherwood Outlaw is now linked from the site, and the roadmap marks it as shipped.
 
 ## Archive
 
