@@ -7,6 +7,8 @@ What is being built across the HOODOGE ecosystem — games, the website and the 
 ## Recent development
 
 - **Sherwood Outlaw — update** · 2026-10-20  
+  The outlaw picker shows the new Club outlaw in full colour before a wallet is connected, with the lock on the badge alone.
+- **Sherwood Outlaw — update** · 2026-10-20  
   The second outlaw is open to Sherwood Club members, and the picker now re-reads a wallet's standing instead of trusting an old sign-in.
 - **Sherwood Outlaw — update** · 2026-10-20  
   Groundwork for the next outlaw: she keeps her distance, the monsters close in, and her cards and icons are in place behind the coming-soon sign.
@@ -28,8 +30,6 @@ What is being built across the HOODOGE ecosystem — games, the website and the 
   Another balance pass on cards and trinkets, so strong picks come with a real cost.
 - **Sherwood Outlaw — update** · 2026-10-19  
   Runs in progress now survive game updates and finish on the rules they started with, plus reward screens that always fit.
-- **Sherwood Outlaw — balance** · 2026-10-19  
-  A big balance pass on cards so every pick costs more thought, and early fights that no longer repeat the same foe.
 
 ## Archive
 
