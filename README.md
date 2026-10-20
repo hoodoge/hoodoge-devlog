@@ -6,6 +6,8 @@ What is being built across the HOODOGE ecosystem — games, the website and the 
 
 ## Recent development
 
+- **HOODOGE Website — Mobile** · 2026-10-20  
+  The phone menu now scrolls, so every link and the theme switch are reachable on smaller screens.
 - **Sherwood Outlaw — update** · 2026-10-20  
   Two of the upcoming Sherwood Club outlaws got their redrawn portraits, and the victory screen now fits on short phone screens.
 - **Sherwood Outlaw — update** · 2026-10-20  
@@ -28,8 +30,6 @@ What is being built across the HOODOGE ecosystem — games, the website and the 
   Sherwood Outlaw is now linked from the site, and the roadmap marks it as shipped.
 - **Sherwood Outlaw — challenge** · 2026-10-19  
   Tougher mid-run challengers that each push back on a different habit, plus small readability fixes and an art touch-up.
-- **Sherwood Outlaw — update** · 2026-10-19  
-  A long-term challenge for players who keep winning, more varied monster behaviour, map surprises that can now go wrong, a wide balance pass, and a larger, cleaner layout on phones.
 
 ## Archive
 
