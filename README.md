@@ -7,6 +7,8 @@ What is being built across the HOODOGE ecosystem — games, the website and the 
 ## Recent development
 
 - **Sherwood Outlaw — update** · 2026-10-21  
+  Mystery choices now show their result, card draws are visible, the shopkeeper can be visited again, warnings read clearer, a miss sounds glum, and the collection lists cards per outlaw.
+- **Sherwood Outlaw — update** · 2026-10-21  
   Attack strikes stay on screen a little longer before they fade.
 - **Sherwood Outlaw — update** · 2026-10-21  
   Story stops now unfold over their full illustration, a dropped card sinks into the monster it was aimed at, and the rest of the hand holds still while you aim.
@@ -28,8 +30,6 @@ What is being built across the HOODOGE ecosystem — games, the website and the 
   The second outlaw is open to Sherwood Club members, and the picker now re-reads a wallet's standing instead of trusting an old sign-in.
 - **Sherwood Outlaw — update** · 2026-10-20  
   Groundwork for the next outlaw: she keeps her distance, the monsters close in, and her cards and icons are in place behind the coming-soon sign.
-- **HOODOGE Website — Mobile** · 2026-10-20  
-  The phone menu now scrolls, so every link and the theme switch are reachable on smaller screens.
 
 ## Archive
 
