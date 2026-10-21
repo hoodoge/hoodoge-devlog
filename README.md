@@ -7,6 +7,8 @@ What is being built across the HOODOGE ecosystem — games, the website and the 
 ## Recent development
 
 - **Sherwood Outlaw — update** · 2026-10-21  
+  Story stops now unfold over their full illustration, a dropped card sinks into the monster it was aimed at, and the rest of the hand holds still while you aim.
+- **Sherwood Outlaw — update** · 2026-10-21  
   Every attack card now has its own strike: charges throw up dust, bites drip venom, barks ripple out, and the archer's arrows fly across the field before they land.
 - **Sherwood Outlaw — update** · 2026-10-21  
   Connecting a wallet from a phone browser now keeps the game where it is: the wallet app only approves and signs, then hands you back.
@@ -28,8 +30,6 @@ What is being built across the HOODOGE ecosystem — games, the website and the 
   The phone menu now scrolls, so every link and the theme switch are reachable on smaller screens.
 - **Sherwood Outlaw — update** · 2026-10-20  
   Two of the upcoming Sherwood Club outlaws got their redrawn portraits, and the victory screen now fits on short phone screens.
-- **Sherwood Outlaw — update** · 2026-10-20  
-  The outlaw picker now shows which newcomers are for club members and lets you connect or disconnect your wallet right there.
 
 ## Archive
 
