@@ -7,6 +7,8 @@ What is being built across the HOODOGE ecosystem — games, the website and the 
 ## Recent development
 
 - **Sherwood Outlaw — update** · 2026-10-22  
+  The archer's arrows fly straight even mid-hop, and every one of her new cards now has its own strike.
+- **Sherwood Outlaw — update** · 2026-10-22  
   The archer's card pool now matches the hound's, with new shots, footwork and close-quarters tricks, each with its own icon. Gold explains itself and the collection shows cards per outlaw.
 - **Sherwood Outlaw — update** · 2026-10-21  
   Mystery choices now show their result, card draws are visible, the shopkeeper can be visited again, warnings read clearer, a miss sounds glum, and the collection lists cards per outlaw.
@@ -28,8 +30,6 @@ What is being built across the HOODOGE ecosystem — games, the website and the 
   Picking the new outlaw right after connecting a wallet works again.
 - **Sherwood Outlaw — update** · 2026-10-20  
   The outlaw picker shows the new Club outlaw in full colour before a wallet is connected, with the lock on the badge alone.
-- **Sherwood Outlaw — update** · 2026-10-20  
-  The second outlaw is open to Sherwood Club members, and the picker now re-reads a wallet's standing instead of trusting an old sign-in.
 
 ## Archive
 
