@@ -6,6 +6,8 @@ What is being built across the HOODOGE ecosystem — games, the website and the 
 
 ## Recent development
 
+- **Sherwood Outlaw — release** · 2026-10-24  
+  Conker the Bombardier is here: a new outlaw who plants acorn bombs instead of swinging, with a full deck of his own and fresh art. Sherwood Club members can pick him up in the Shop.
 - **Sherwood Outlaw — update** · 2026-10-22  
   The archer's arrows fly straight even mid-hop, and every one of her new cards now has its own strike.
 - **Sherwood Outlaw — update** · 2026-10-22  
@@ -28,8 +30,6 @@ What is being built across the HOODOGE ecosystem — games, the website and the 
   Every monster now walks in on the new outlaw, being backed into a corner stings the same from start to finish, and the rest-stop preview shows what a reworded improvement does.
 - **Sherwood Outlaw — fix** · 2026-10-20  
   Picking the new outlaw right after connecting a wallet works again.
-- **Sherwood Outlaw — update** · 2026-10-20  
-  The outlaw picker shows the new Club outlaw in full colour before a wallet is connected, with the lock on the badge alone.
 
 ## Archive
 
