@@ -1,4 +1,5 @@
 [
+  { "date": "2026-10-24", "project": "Sherwood Outlaw", "area": "fix", "summary": "Treats window now scrolls on small screens." },
   { "date": "2026-10-24", "project": "Sherwood Outlaw", "area": "update", "summary": "Get Treats inside the game: burn HOODOGE from the Treats window and a new HOW TO GET TREATS guide." },
   { "date": "2026-10-24", "project": "Sherwood Outlaw", "area": "update", "summary": "The Shop now opens on top of the outlaw picker when you jump to it from there." },
   { "date": "2026-10-24", "project": "Sherwood Outlaw", "area": "release", "summary": "Conker the Bombardier is here: a new outlaw who plants acorn bombs instead of swinging, with a full deck of his own and fresh art. Sherwood Club members can pick him up in the Shop." },

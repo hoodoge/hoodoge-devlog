@@ -6,6 +6,8 @@ What is being built across the HOODOGE ecosystem — games, the website and the 
 
 ## Recent development
 
+- **Sherwood Outlaw — fix** · 2026-10-24  
+  Treats window now scrolls on small screens.
 - **Sherwood Outlaw — update** · 2026-10-24  
   Get Treats inside the game: burn HOODOGE from the Treats window and a new HOW TO GET TREATS guide.
 - **Sherwood Outlaw — update** · 2026-10-24  
@@ -28,8 +30,6 @@ What is being built across the HOODOGE ecosystem — games, the website and the 
   Connecting a wallet from a phone browser now keeps the game where it is: the wallet app only approves and signs, then hands you back.
 - **Sherwood Outlaw — update** · 2026-10-21  
   A card you drag onto a monster or your outlaw turns see-through so you can still see what is underneath.
-- **Sherwood Outlaw — update** · 2026-10-20  
-  Story stops that cost or restore health now show your current and maximum health beside the choices.
 
 ## Archive
 
