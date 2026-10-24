@@ -7,6 +7,8 @@ What is being built across the HOODOGE ecosystem — games, the website and the 
 ## Recent development
 
 - **Sherwood Outlaw — update** · 2026-10-24  
+  Get Treats inside the game: burn HOODOGE from the Treats window and a new HOW TO GET TREATS guide.
+- **Sherwood Outlaw — update** · 2026-10-24  
   The Shop now opens on top of the outlaw picker when you jump to it from there.
 - **Sherwood Outlaw — release** · 2026-10-24  
   Conker the Bombardier is here: a new outlaw who plants acorn bombs instead of swinging, with a full deck of his own and fresh art. Sherwood Club members can pick him up in the Shop.
@@ -28,8 +30,6 @@ What is being built across the HOODOGE ecosystem — games, the website and the 
   A card you drag onto a monster or your outlaw turns see-through so you can still see what is underneath.
 - **Sherwood Outlaw — update** · 2026-10-20  
   Story stops that cost or restore health now show your current and maximum health beside the choices.
-- **Sherwood Outlaw — update** · 2026-10-20  
-  Every monster now walks in on the new outlaw, being backed into a corner stings the same from start to finish, and the rest-stop preview shows what a reworded improvement does.
 
 ## Archive
 
