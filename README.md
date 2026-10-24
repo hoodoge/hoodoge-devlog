@@ -6,6 +6,8 @@ What is being built across the HOODOGE ecosystem — games, the website and the 
 
 ## Recent development
 
+- **Sherwood Outlaw — update** · 2026-10-24  
+  Home screen redesign: a painted wooden bar with the menu, wallet Treats and run buttons.
 - **Sherwood Outlaw — fix** · 2026-10-24  
   Treats window now scrolls on small screens.
 - **Sherwood Outlaw — update** · 2026-10-24  
@@ -28,8 +30,6 @@ What is being built across the HOODOGE ecosystem — games, the website and the 
   Every attack card now has its own strike: charges throw up dust, bites drip venom, barks ripple out, and the archer's arrows fly across the field before they land.
 - **Sherwood Outlaw — update** · 2026-10-21  
   Connecting a wallet from a phone browser now keeps the game where it is: the wallet app only approves and signs, then hands you back.
-- **Sherwood Outlaw — update** · 2026-10-21  
-  A card you drag onto a monster or your outlaw turns see-through so you can still see what is underneath.
 
 ## Archive
 
