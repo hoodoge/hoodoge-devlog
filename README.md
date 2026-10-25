@@ -6,6 +6,8 @@ What is being built across the HOODOGE ecosystem — games, the website and the 
 
 ## Recent development
 
+- **Sherwood Outlaw — release** · 2026-10-25  
+  Swift is out: the fourth outlaw, a sky fighter, joins the Shop for Sherwood Club members.
 - **Sherwood Outlaw — update** · 2026-10-25  
   Fletch tuning: bigger foes now close in one step a turn, and her starting shot hits harder.
 - **Sherwood Outlaw — update** · 2026-10-25  
@@ -28,8 +30,6 @@ What is being built across the HOODOGE ecosystem — games, the website and the 
   Conker the Bombardier is here: a new outlaw who plants acorn bombs instead of swinging, with a full deck of his own and fresh art. Sherwood Club members can pick him up in the Shop.
 - **Sherwood Outlaw — update** · 2026-10-22  
   The archer's arrows fly straight even mid-hop, and every one of her new cards now has its own strike.
-- **Sherwood Outlaw — update** · 2026-10-22  
-  The archer's card pool now matches the hound's, with new shots, footwork and close-quarters tricks, each with its own icon. Gold explains itself and the collection shows cards per outlaw.
 
 ## Archive
 
