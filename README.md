@@ -7,6 +7,8 @@ What is being built across the HOODOGE ecosystem — games, the website and the 
 ## Recent development
 
 - **Sherwood Outlaw — update** · 2026-10-25  
+  Longer maps with more campfires, a bigger heal after each act, and a few card tweaks.
+- **Sherwood Outlaw — update** · 2026-10-25  
   Fletch tweaks: one keepsake reworked and the starter Pin card now pins the pack.
 - **Sherwood Outlaw — update** · 2026-10-25  
   Engine update: Swift's dives hit harder from height, with a height badge on stage.
@@ -28,8 +30,6 @@ What is being built across the HOODOGE ecosystem — games, the website and the 
   The archer's card pool now matches the hound's, with new shots, footwork and close-quarters tricks, each with its own icon. Gold explains itself and the collection shows cards per outlaw.
 - **Sherwood Outlaw — update** · 2026-10-21  
   Mystery choices now show their result, card draws are visible, the shopkeeper can be visited again, warnings read clearer, a miss sounds glum, and the collection lists cards per outlaw.
-- **Sherwood Outlaw — update** · 2026-10-21  
-  Attack strikes stay on screen a little longer before they fade.
 
 ## Archive
 
