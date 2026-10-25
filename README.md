@@ -6,6 +6,8 @@ What is being built across the HOODOGE ecosystem — games, the website and the 
 
 ## Recent development
 
+- **Sherwood Outlaw — update** · 2026-10-25  
+  Engine update: Swift's dives hit harder from height, with a height badge on stage.
 - **Sherwood Outlaw — fix** · 2026-10-24  
   Home screen polish: button labels centred and sized, burn button on one line.
 - **Sherwood Outlaw — update** · 2026-10-24  
@@ -28,8 +30,6 @@ What is being built across the HOODOGE ecosystem — games, the website and the 
   Attack strikes stay on screen a little longer before they fade.
 - **Sherwood Outlaw — update** · 2026-10-21  
   Story stops now unfold over their full illustration, a dropped card sinks into the monster it was aimed at, and the rest of the hand holds still while you aim.
-- **Sherwood Outlaw — update** · 2026-10-21  
-  Every attack card now has its own strike: charges throw up dust, bites drip venom, barks ripple out, and the archer's arrows fly across the field before they land.
 
 ## Archive
 

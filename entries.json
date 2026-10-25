@@ -1,4 +1,5 @@
 [
+  { "date": "2026-10-25", "project": "Sherwood Outlaw", "area": "update", "summary": "Engine update: Swift's dives hit harder from height, with a height badge on stage." },
   { "date": "2026-10-24", "project": "Sherwood Outlaw", "area": "fix", "summary": "Home screen polish: button labels centred and sized, burn button on one line." },
   { "date": "2026-10-24", "project": "Sherwood Outlaw", "area": "update", "summary": "Home screen redesign: a painted wooden bar with the menu, wallet Treats and run buttons." },
   { "date": "2026-10-24", "project": "Sherwood Outlaw", "area": "fix", "summary": "Treats window now scrolls on small screens." },
