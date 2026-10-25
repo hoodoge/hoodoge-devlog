@@ -7,6 +7,8 @@ What is being built across the HOODOGE ecosystem — games, the website and the 
 ## Recent development
 
 - **Sherwood Outlaw — update** · 2026-10-25  
+  Fletch tuning: bigger foes now close in one step a turn, and her starting shot hits harder.
+- **Sherwood Outlaw — update** · 2026-10-25  
   Longer maps with more campfires, a bigger heal after each act, and a few card tweaks.
 - **Sherwood Outlaw — update** · 2026-10-25  
   Fletch tweaks: one keepsake reworked and the starter Pin card now pins the pack.
@@ -28,8 +30,6 @@ What is being built across the HOODOGE ecosystem — games, the website and the 
   The archer's arrows fly straight even mid-hop, and every one of her new cards now has its own strike.
 - **Sherwood Outlaw — update** · 2026-10-22  
   The archer's card pool now matches the hound's, with new shots, footwork and close-quarters tricks, each with its own icon. Gold explains itself and the collection shows cards per outlaw.
-- **Sherwood Outlaw — update** · 2026-10-21  
-  Mystery choices now show their result, card draws are visible, the shopkeeper can be visited again, warnings read clearer, a miss sounds glum, and the collection lists cards per outlaw.
 
 ## Archive
 
