@@ -6,6 +6,8 @@ What is being built across the HOODOGE ecosystem — games, the website and the 
 
 ## Recent development
 
+- **Pray for Chart — Launch** · 2026-11-16  
+  A shared 3D hall where investors from around the world gather to watch the charts together is now open.
 - **HOODOGE Website — Treats** · 2026-11-13  
   Daily treats now go to HOODOGE NFT holders, automatically and with no sign-in.
 - **Sherwood Outlaw — release** · 2026-10-25  
@@ -28,8 +30,6 @@ What is being built across the HOODOGE ecosystem — games, the website and the 
   Get Treats inside the game: burn HOODOGE from the Treats window and a new HOW TO GET TREATS guide.
 - **Sherwood Outlaw — update** · 2026-10-24  
   The Shop now opens on top of the outlaw picker when you jump to it from there.
-- **Sherwood Outlaw — release** · 2026-10-24  
-  Conker the Bombardier is here: a new outlaw who plants acorn bombs instead of swinging, with a full deck of his own and fresh art. Sherwood Club members can pick him up in the Shop.
 
 ## Archive
 
