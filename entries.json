@@ -1,4 +1,5 @@
 [
+  { "date": "2026-11-16", "project": "Pray for Chart", "area": "Interface", "summary": "Cleaner chart wall and an easier-to-read controls hint." },
   { "date": "2026-11-16", "project": "Pray for Chart", "area": "Entry", "summary": "You can now pick your position before entering, and a signed-in character keeps its nickname and hat on every device." },
   { "date": "2026-11-16", "project": "Pray for Chart", "area": "Launch", "summary": "A shared 3D hall where investors from around the world gather to watch the charts together is now open." },
   { "date": "2026-11-13", "project": "HOODOGE Website", "area": "Treats", "summary": "Daily treats now go to HOODOGE NFT holders, automatically and with no sign-in." },

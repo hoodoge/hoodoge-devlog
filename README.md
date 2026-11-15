@@ -6,6 +6,8 @@ What is being built across the HOODOGE ecosystem — games, the website and the 
 
 ## Recent development
 
+- **Pray for Chart — Interface** · 2026-11-16  
+  Cleaner chart wall and an easier-to-read controls hint.
 - **Pray for Chart — Entry** · 2026-11-16  
   You can now pick your position before entering, and a signed-in character keeps its nickname and hat on every device.
 - **Pray for Chart — Launch** · 2026-11-16  
@@ -28,8 +30,6 @@ What is being built across the HOODOGE ecosystem — games, the website and the 
   Home screen redesign: a painted wooden bar with the menu, wallet Treats and run buttons.
 - **Sherwood Outlaw — fix** · 2026-10-24  
   Treats window now scrolls on small screens.
-- **Sherwood Outlaw — update** · 2026-10-24  
-  Get Treats inside the game: burn HOODOGE from the Treats window and a new HOW TO GET TREATS guide.
 
 ## Archive
 
