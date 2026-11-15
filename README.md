@@ -6,6 +6,8 @@ What is being built across the HOODOGE ecosystem — games, the website and the 
 
 ## Recent development
 
+- **Pray for Chart — Entry** · 2026-11-16  
+  You can now pick your position before entering, and a signed-in character keeps its nickname and hat on every device.
 - **Pray for Chart — Launch** · 2026-11-16  
   A shared 3D hall where investors from around the world gather to watch the charts together is now open.
 - **HOODOGE Website — Treats** · 2026-11-13  
@@ -28,8 +30,6 @@ What is being built across the HOODOGE ecosystem — games, the website and the 
   Treats window now scrolls on small screens.
 - **Sherwood Outlaw — update** · 2026-10-24  
   Get Treats inside the game: burn HOODOGE from the Treats window and a new HOW TO GET TREATS guide.
-- **Sherwood Outlaw — update** · 2026-10-24  
-  The Shop now opens on top of the outlaw picker when you jump to it from there.
 
 ## Archive
 
